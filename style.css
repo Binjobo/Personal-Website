@@ -1,0 +1,162 @@
+/* header */
+header {
+    background-color: #e4f9f5;
+}
+
+h1 {
+    text-align: center;
+    color: #66bfbf;
+    font-family: "Cedarville Cursive",serif;
+    font-weight: bold;
+    font-size: 100px;
+    padding: 50px 0 50px 0;
+}
+
+.cloud {
+    padding-top: 30px;
+}
+
+#cloud1 {
+    text-align: right;
+    margin-right: 250px;
+}
+
+.intro1 {
+    text-align: center;
+    color: #66bfbf;
+    font-size: 50px;
+}
+    
+span {
+    text-decoration: underline;
+}
+
+#cloud2 {
+    text-align: left;
+    margin-left: 250px;
+}
+
+#mountain {
+    text-align: center;
+}
+
+
+/* hello div */
+.hello {
+    text-align: center;
+    padding-bottom: 80px;
+}
+
+.profilePic {
+    margin-top: 100px;
+    border-radius: 50%;
+}
+
+h2 {
+    color: #66bfbf;
+    font-size: 60px;
+    margin-top: 50px;
+}
+
+.intro2 {
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+/* my skills div */
+.mySkills {
+    text-align: center;
+    margin: 90px 0 210px 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.h2MySkills {
+    margin-bottom: 100px;
+}
+
+.typing {
+    float: left;
+    padding-right: 40px;
+}
+
+.description {
+    text-align: left;
+}
+
+h3 {
+    color: #11999e;
+    font-size: 35px;
+}
+
+.detailedDescription {
+    font-size: 25px;
+}
+
+.secondSkill {
+    clear: both;
+    margin-top: 200px;
+}
+
+.sleepingPig {
+    float: left;
+    padding-right: 40px;
+}
+
+hr {
+    clear: both;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* get in touch div */
+.getInTouch {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+
+.h3GetInTouch {
+    margin-top: 40px;
+}
+
+.btn {
+    margin-top: 40px;
+    background-color: #11cdd4 !important;
+    border-color: #11cdd4 !important;
+    font-size: 30px;
+}
+
+.email {
+    text-decoration: none;
+    color: white;
+    padding: 0 10px 0 10px;
+}
+
+/* footer */
+footer {
+    background-color: #75cdcd;
+}
+
+ul {
+    padding: 30px;
+}
+
+li {
+    margin: 20px;
+}
+
+.nav-link {
+    color: #085b5e !important;
+    font-size: 25px;
+}
+
+.copyright {
+    color: white !important;
+    font-size: 20px;
+    padding-bottom: 60px;
+    margin: 0;
+}
